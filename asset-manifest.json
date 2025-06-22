@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github-profile-viewver/static/css/main.7a385d1c.css",
+    "main.js": "/github-profile-viewver/static/js/main.5588b1d9.js",
+    "index.html": "/github-profile-viewver/index.html",
+    "main.7a385d1c.css.map": "/github-profile-viewver/static/css/main.7a385d1c.css.map",
+    "main.5588b1d9.js.map": "/github-profile-viewver/static/js/main.5588b1d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a385d1c.css",
+    "static/js/main.5588b1d9.js"
+  ]
+}
